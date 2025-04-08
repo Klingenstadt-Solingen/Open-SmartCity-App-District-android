@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core Base -->
+    <string name="error_message_no_result">No result</string>
+    <string name="error_message_connection_error">Connection error</string>
+    <string name="error_message_timeout">Timeout</string>
+    <string name="error_message_unknown">An error has occurred</string>
+    <string name="try_again">Try again</string>
+    <string name="dashboard_city_name">Klingenstadt Solingen</string>
+    <string name="district">District</string>
+    <string name="district_prefix">District %s</string>
+    <string name="back_button">Back</string>
+    <string name="calendar_title">Calendar</string>
+    <string name="share_title">Share</string>
+    <string name="bookmark_title">Bookmark</string>
+    <string name="big_event_title">Major events</string>
+
+    <string name="show_all">show all</string>
+    <string name="show_district">show %s</string>
+
+    <!-- Core District -->
+    <string name="scope_all">All</string>
+    <string name="scope_district">@string/district</string>
+    <string name="scope_nearby">Nearby</string>
+    <plurals name="date_timerange">
+        <item quantity="one">Choose a date</item>
+        <item quantity="other">Choose a time range</item>
+    </plurals>
+    <string name="date">Date</string>
+    <string name="from_date">From</string>
+
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+
+
+    <!-- Press Release -->
+    <string name="no_press_release_found">No press release found.</string>
+    <string name="press_release_module_title">Press &amp; News</string>
+    <string name="reading_time">Reading Time</string>
+    <string name="minutes">min</string>
+
+    <!-- PROJECT -->
+    <string name="project_module_title">Projects &amp; Development</string>
+    <string name="politics_module_title">Politic &amp; Administration</string>
+    <string name="politic_members">Member</string>
+    <string name="politic_memberships">Memberships</string>
+    <string name="politic_meetings">Meetings</string>
+    <string name="politic_in_future">In Future</string>
+    <string name="council_members">council members</string>
+    <string name="authorized_votes">authorized votes</string>
+    <string name="project_all">All</string>
+    <string name="idea_status">Idea</string>
+    <string name="planning_status">In Planning</string>
+    <string name="realization_status">Realization</string>
+    <string name="completed_status">Completed</string>
+    <string name="unknown_status">Unknown</string>
+    <string name="cooperation_partners">Kooperationspartner</string>
+    <string name="funding_partners">Förderpartner</string>
+    <string name="unknown_partners">Unbekannt</string>
+    <string name="project_contacts">Contacts</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_address">E-Mail Address</string>
+
+    <!-- Events -->
+    <string name="event_module_title">Events &amp; more</string>
+    <string name="event_type">Event type</string>
+    <string name="day_button">Day</string>
+    <string name="timerange_button">Timerange</string>
+    <string name="tab_button_today">Today</string>
+    <string name="tab_button_tomorrow">Tomorrow</string>
+    <string name="tab_button_in_2_days">In 2 Days</string>
+    <string name="all_time_button">All</string>
+    <string name="show_bookmarked_only">Show bookmarked only</string>
+    <string name="event_prices">Tickets and Admission Prices</string>
+    <string name="event_no_openinghours">No available Opening Hours</string>
+    <string name="event_from_to"> %1$s to %2$s o\'clock</string>
+    <string name="no_event_found">No major event found.</string>
+    <string name="event_canceled">Canceled</string>
+
+
+    <string name="event_openinghours">When?</string>
+    <plurals name="day">
+        <item quantity="one">%1$d Day</item>
+        <item quantity="other">%1$d Days</item>
+    </plurals>
+    <string name="sponsors">Sponsors</string>
+    <string name="location_where">Where?</string>
+    <string name="kilometer_distance">%.0f kilometer away</string>
+    <string name="meter_distance">%.1f meter away</string>
+
+    <!-- Weather -->
+    <string name="weather_module_title">Weather &amp; Sensors</string>
+
+    <string name="show_route">Show Route</string>
+    <!-- Mobility -->
+    <string name="mobility_module_title">Mobility</string>
+
+    <!-- Point of Interest -->
+    <string name="poi_module_title">Solingen á la Carte</string>
+    <string name="category">Category</string>
+
+    <!-- Semantics -->
+    <string name="new_items">%1$s new items in %2$s</string>
+    <string name="back">Navigation back</string>
+    <string name="status">Status</string>
+    <string name="many">many</string>
+    <string name="until_date">Until</string>
+    <string name="open_end">without an end date</string>
+    <string name="planned">planned from</string>
+    <string name="share">Share</string>
+    <string name="open_call">Call Phone number</string>
+    <string name="open_email">Write E-Mail</string>
+    <string name="open_link">Open URL</string>
+    <string name="profile_image">Profile</string>
+    <string name="organisation">Organisation</string>
+    <string name="pager_button">Page</string>
+    <string name="date_from">Start at</string>
+    <string name="date_to">End at</string>
+    <string name="time_from">Starts at</string>
+    <string name="time_to">Ends at</string>
+    <string name="location">Ort</string>
+    <string name="title_image">Title</string>
+    <string name="apply">Apply</string>
+    <string name="quick_open">Quick open</string>
+    <string name="district_filter">Change District</string>
+    <string name="settings_button">District Selection Menu</string>
+    <string name="weather_station_selection">Weather Station Selection</string>
+    <string name="station_temperature">Temperature at %1$s %2$s</string>
+    <string name="measurement_is">%1$s is %2$s %3$s</string>
+    <string name="distance_to_km">%1$s Kilometres away</string> <!--- Add distance unit and add plurals-->
+    <string name="distance_to_m">%1$s Metres away</string> <!--- Add distance unit and add plurals-->
+    <string name="district_module">Districts in %s</string>
+    <string name="district_module_details">Districtmodule</string>
+    <string name="weather_temperature_is">Temperatur beträgt %.0f %2$s</string>
+    <string name="clear_search">Clear search text</string>
+</resources>

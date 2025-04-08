@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core Base -->
+    <string name="error_message_no_result">Kein Ergebnis</string>
+    <string name="error_message_connection_error">Verbindungsfehler</string>
+    <string name="error_message_timeout">Zeitüberschreitung</string>
+    <string name="error_message_unknown">Ein Fehler ist aufgetreten</string>
+    <string name="try_again">Erneut Versuchen</string>
+    <string name="dashboard_city_name">Klingenstadt Solingen</string>
+    <string name="district">Bezirk %s</string>
+    <string name="district_prefix">Bezirk %s</string>
+    <string name="back_button">Zurück</string>
+    <string name="calendar_title">Kalender</string>
+    <string name="share_title">Teilen</string>
+    <string name="bookmark_title">Merken</string>
+    <string name="big_event_title">Großveranstaltungen</string>
+    <string name="show_all">alle anzeigen</string>
+    <string name="show_district">%s anzeigen</string>
+
+    <!-- Core District -->
+    <string name="scope_all">Alle</string>
+    <string name="scope_district">Bezirk</string>
+    <string name="scope_nearby">Nearby</string>
+    <plurals name="date_timerange">
+        <item quantity="one">Wähle ein Datum</item>
+        <item quantity="other">Wähle einen Zeitraum</item>
+    </plurals>
+    <string name="date">Datum</string>
+    <string name="from_date">Vom</string>
+
+    <string name="ok">Ok</string>
+    <string name="cancel">Abbrechen</string>
+
+    <string name="show_route">Route berechnen</string>
+
+
+    <!-- Press Release -->
+    <string name="no_press_release_found">Keine Pressemitteilung gefunden.</string>
+    <string name="press_release_module_title">Presse &amp; Aktuelles</string>
+    <string name="reading_time">Lesezeit</string>
+    <string name="minutes">min</string>
+
+    <!-- PROJECT -->
+    <string name="project_module_title">Projekte &amp; Entwicklung</string>
+    <string name="politics_module_title">Politik &amp; Verwaltung</string>
+    <string name="politic_members">Mitglieder</string>
+    <string name="politic_memberships">Mitgliedschaften</string>
+    <string name="politic_meetings">Sitzungen</string>
+    <string name="politic_in_future">In Zukunft</string>
+    <string name="council_members">Ratsmitglieder</string>
+    <string name="authorized_votes">Stimmberechtigte</string>
+    <string name="project_all">Alle</string>
+    <string name="idea_status">Idea</string>
+    <string name="planning_status">In Planning</string>
+    <string name="realization_status">Realization</string>
+    <string name="completed_status">Completed</string>
+    <string name="unknown_status">Unbekannt</string>
+    <string name="cooperation_partners">Kooperationspartner</string>
+    <string name="funding_partners">Förderpartner</string>
+    <string name="unknown_partners">Unbekannt</string>
+    <string name="project_contacts">Ansprechpartner</string>
+    <string name="phone_number">Telefonnummer</string>
+    <string name="email_address">E-Mail Adresse</string>
+
+    <!-- Events -->
+    <string name="event_module_title">Events &amp; mehr</string>
+    <string name="event_type">Veranstaltungsart</string>
+    <string name="day_button">Tag</string>
+    <string name="timerange_button">Zeitraum</string>
+    <string name="tab_button_today">Heute</string>
+    <string name="tab_button_tomorrow">Morgen</string>
+    <string name="tab_button_in_2_days">In 2 Tagen</string>
+    <string name="all_time_button">Alle</string>
+    <string name="show_bookmarked_only">Nur gemerkte anzeigen</string>
+    <string name="event_prices">Karten und Eintrittspreise</string>
+    <string name="event_openinghours">Wann?</string>
+    <string name="event_no_openinghours">Keine Öffnungszeiten verfügbar</string>
+    <string name="event_from_to"> %1$s bis %2$s Uhr</string>
+    <string name="no_event_found">Keine Großveranstaltung gefunden.</string>
+    <string name="event_canceled">Abgesagt</string>
+
+    <plurals name="day">
+        <item quantity="one">%1$d Tag</item>
+        <item quantity="other">%1$d Tage</item>
+    </plurals>
+    <string name="sponsors">Sponsoren</string>
+    <string name="location_where">Wo?</string>
+    <string name="kilometer_distance">%.0f kilometer entfernt</string>
+    <string name="meter_distance">%.1f meter entfernt</string>
+
+    <!-- Weather -->
+    <string name="weather_module_title">Wetter &amp; Sensoren</string>
+
+    <!-- Mobility -->
+    <string name="mobility_module_title">Mobilität</string>
+
+    <!-- Point of Interest -->
+    <string name="poi_module_title">Solingen á la Carte</string>
+    <string name="category">Kategorie</string>
+
+    <!-- Semantics -->
+    <string name="new_items">%1$s neue Einträge in %2$s</string>
+    <string name="back">Navigation Zurück</string>
+    <string name="status">Status</string>
+    <string name="many">Viele</string>
+    <string name="until_date">Bis zum</string>
+    <string name="open_end">ohne Enddatum</string>
+    <string name="planned">Geplant von</string>
+    <string name="share">Teile</string>
+    <string name="open_call">Rufe Telefonnummer an</string>
+    <string name="open_email">Schreibe E-Mail</string>
+    <string name="open_link">Öffne URL</string>
+    <string name="profile_image">Profil</string>
+    <string name="organisation">Organisation</string>
+    <string name="pager_button">Seite</string>
+    <string name="date_from">Beginnt am</string>
+    <string name="date_to">Ended am</string>
+    <string name="time_from">Beginnt um</string>
+    <string name="time_to">Endet um</string>
+    <string name="location">Ort</string>
+    <string name="title_image">Titel</string>
+    <string name="apply">Übernehmen</string>
+    <string name="quick_open">Sofort öffnen</string>
+    <string name="district_filter">Distrikt wechseln</string>
+    <string name="settings_button">Stadtteilauswahl Menü</string>
+    <string name="weather_station_selection">Wetterstationsauswahl</string>
+    <string name="station_temperature">Temperatur beträgt %1$s %2$s</string>
+    <string name="measurement_is">%1$s beträgt %2$s %3$s</string>
+    <string name="distance_to_km">%1$s kilometer entfernt</string> <!--- Add distance unit and add plurals-->
+    <string name="distance_to_m">%1$s meter entfernt</string> <!--- Add distance unit and add plurals-->
+    <string name="district_module">Stadtteile in %s</string>
+    <string name="district_module_details">Stadtteilmodul</string>
+    <string name="weather_temperature_is">Temperature is %.0f %2$s</string>
+    <string name="clear_search">Suchtext löschen</string>
+
+</resources>
